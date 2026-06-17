@@ -124,8 +124,10 @@ To test the admin console, use one of the seeded accounts:
 * **User 1**: `admin` / `admin123`
 
 *(Password changes can be updated securely in the settings dashboard).*
+ it is just a backup 
 
 ---
 
 ## 📄 License
 This project is licensed under the MIT License.
+
